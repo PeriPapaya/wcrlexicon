@@ -1,0 +1,117 @@
+<html>
+<head>
+<title>Index | WCR Lexicon Game</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../lexicon.css">
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<h2 id="title">WCR Lexicon Game</h2>
+<p><i>Prompt goes here</i></p>
+</div>
+<div id="sidebar">
+<table>
+<tr><td><img id="logo" src="../logo.png"></td></tr>
+<tr><td><a href="../contents/?byindex">Contents</a></td></tr>
+<tr><td><a href="../rules/">Rules</a></td></tr>
+<tr><td><a href="../formatting/">Formatting</a></td></tr>
+<tr><td><a href="../session/">Session</a></td></tr>
+<tr><td><a href="../statistics/">Statistics</a></td></tr>
+</table>
+</div>
+<div id="content">
+<div class="contentblock"><p>There are <b>2</b> entries, <b>1</b> written and <b>1</b> phantom.</p>
+<script type="text/javascript">
+const order = {
+	INDEX: "index",
+	TURN: "turn",
+	PLAYER: "player",
+}
+var currentOrder = order.INDEX;
+setOrder = function(orderType)
+{
+	if (orderType == order.INDEX) {
+		document.getElementById("index-order").style.display = "block";
+		document.getElementById("turn-order").style.display = "none";
+		document.getElementById("player-order").style.display = "none";
+		document.getElementById("toggle-button").innerText = "Switch to turn order";
+		currentOrder = order.INDEX;
+	}
+	else if (orderType == order.TURN) {
+		document.getElementById("index-order").style.display = "none";
+		document.getElementById("turn-order").style.display = "block";
+		document.getElementById("player-order").style.display = "none";
+		document.getElementById("toggle-button").innerText = "Switch to player order";
+		currentOrder = order.TURN;
+	}
+	else if (orderType == order.PLAYER) {
+		document.getElementById("index-order").style.display = "none";
+		document.getElementById("turn-order").style.display = "none";
+		document.getElementById("player-order").style.display = "block";
+		document.getElementById("toggle-button").innerText = "Switch to index order";
+		currentOrder = order.PLAYER;
+	}
+}
+contentsToggle = function() {
+	if (currentOrder == order.INDEX)
+		setOrder(order.TURN);
+	else if (currentOrder == order.TURN)
+		setOrder(order.PLAYER);
+	else if (currentOrder == order.PLAYER)
+		setOrder(order.INDEX);
+}
+window.onload = function(){
+	if (location.search.search("byindex") > 0)
+	{
+		setOrder(order.INDEX);
+	}
+	if (location.search.search("byturn") > 0)
+	{
+		setOrder(order.TURN);
+	}
+	if (location.search.search("byplayer") > 0)
+	{
+		setOrder(order.PLAYER);
+	}
+}
+</script>
+<button id="toggle-button" onClick="javascript:contentsToggle()">Switch to turn order</button>
+<div id="index-order" style="display:block">
+<ul>
+<h3>ABC</h3>
+<h3>DEF</h3>
+<li><a href="../article/Example_page.html">Example page</a></li>
+<h3>GHI</h3>
+<h3>JKL</h3>
+<h3>MNO</h3>
+<h3>PQRS</h3>
+<li><a href="../article/Phantom_page.html" class="phantom">Phantom page</a></li>
+<h3>TUV</h3>
+<h3>WXYZ</h3>
+<h3>&c.</h3>
+</ul>
+</div>
+<div id="turn-order" style="display:none">
+<ul>
+<h3>Turn 1</h3>
+<li><a href="../article/Example_page.html">Example page</a></li>
+<h3>Unwritten</h3>
+<li><a href="../article/Phantom_page.html" class="phantom">Phantom page</a></li>
+</ul>
+</div>
+<div id="player-order" style="display:none">
+<ul>
+<h3>PN</h3>
+<li><a href="../article/Example_page.html">Example page</a></li>
+<h3>Unwritten</h3>
+<li><a href="../article/Phantom_page.html" class="phantom">Phantom page</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</body>
+</html>
