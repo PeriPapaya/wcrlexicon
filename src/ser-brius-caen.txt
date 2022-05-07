@@ -1,10 +1,6 @@
-# Player: PN
+# Player: Machina 0
 # Turn: 0
-# Title: Example Page
-
-Machina 0
-Turn 1
-Bio of Brius Caen
+# Title: Bio of Brius Caen
 
 ~Ser Brius Caen
 
