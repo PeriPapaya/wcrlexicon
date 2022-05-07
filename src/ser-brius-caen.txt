@@ -1,6 +1,6 @@
 # Player: Machina 0
 # Turn: 0
-# Title: Bio of Brius Caen
+# Title: ~Ser Brius Caen
 
 ~Ser Brius Caen
 
