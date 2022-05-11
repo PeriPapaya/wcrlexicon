@@ -1,13 +1,17 @@
 # Player: ND
 # Turn: 0
-# Title: ~Ratalan
+# Title: Ratalan
 
-The night **Suta Aratelian** was conceived his mother dreamed of a luminous bird with one head of a hawk and one head of an eagle. A clear sign that the fetal prince would one day become either a great king or a wise prophet. Determined to prevent the second scenario, the king ensured that young Aratelian grew up with no knowledge of human frailty or religious teachings. 
+The night Suta Aratelian was conceived his mother dreamed of a luminous bird with one head of a hawk and one head of an eagle. A clear sign that the fetal prince would one day become either a great king or a wise prophet. Determined to prevent the second scenario, the king ensured that young Aratelian grew up with no knowledge of human frailty or religious teachings. 
 
-When Aratelian learned the truth he fled his father's house and wandered the wilderness in search of wisdom. He learned to speak to the wind, the trees, and the [[Bhram]] itself. When he was satisfied he sought his home, but found his father's kingdom had become a forgotten ruin.
+When Aratelian learned the truth he fled his father's house and wandered the wilderness in search of wisdom. He learned to speak to the wind, the trees, and the Bhram itself. When he was satisfied he sought his home but found his father's kingdom had become a forgotten ruin.
 
-And so it was that Aratelian crossed the [[Cloudrift]] to preach to the peasants of [[Katthe]] where he came to be known as Ratalan. Word quickly spread of his spiritual powers and perfect recall of the 374 [[Atakkra]] and the 7 secret Esakkra, despite lurid rumors spread by his enemies. 
+And so it was that Aratelian crossed the Cloudrift to preach to the peasants of the Tedorfell frontier where he came to be known as Ratalan. Word quickly spread of his spiritual powers and perfect recall of the 374 Atakkra and the 7 secret Esakkra, despite lurid rumors spread by his enemies. 
 
-Ratalan first met the [[Primaria-Mother Jottess]] in 6656 when he presented her with an Icon of Harppe at The Valsitee. Ratalan shared with her eminence a vision of a jeweled serpent crushed under a red mule's heel and persuaded her to abandon her plans to visit Tribbia. Thanks to his counsel she narrowly avoided [[The Vermilion Days]] attacks, almost certainly saving her life! 
+Ratalan first met the Primaria-Mother Jottess in 6656 when he presented her with an [[Icon of Harppe|Harppe]] at the Valsitee. Ratalan shared with her eminence a vision of a jeweled serpent crushed under a red mule's heel. She was thus persuaded to spend the season in seclusion as she received personal spiritual instruction from Ratalan himself. No doubt, Jottess's remote location spared her during the [[Vermillion Days Attacks]], and saved her eminence's life!
 
-To this day Ratalan remains here eminence's most trusted and loyal advisor.
+To this day Ratalan remains the Primeria-mother's closest, most trusted, and loyal advisor.  
+
+~Ratalan
+(Player: Psych)
+

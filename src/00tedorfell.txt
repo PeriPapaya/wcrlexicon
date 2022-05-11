@@ -1,0 +1,11 @@
+# Player: PeriPapaya
+# Turn: 0
+# Title: *Tedorfell
+
+Tedorfell is ruled by Primaria Sordani. It is west of Belarans.
+
+Cities:\\
+[[Kol'adarash]] - the capitol\\
+Graefel - a coastal city, home to the Tierset Royal Academy\\
+
+~Gorthan Frim

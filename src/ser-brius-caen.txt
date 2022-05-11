@@ -1,13 +1,17 @@
-# Player: Machina 0
+# Player: Machina
+# Turn: 0
+# Title: Example Page
+# Player: Machina
 # Turn: 0
 # Title: ~Ser Brius Caen
 
 ~Ser Brius Caen
 
-Ser Brius Caen is 1st Scholar to Lord Daesun Reynear and personal trainer to the [[Lady Bethiria Reynear]]. He has personally penned the most up-to-date treatises on the anatomy and growth of the body and many of the most accurate histories of Tedorfell and the land surrounding. Those who wish to strengthen themselves would do well to attend to his teachings for none are more learned in the forging of the body. 
+Ser Brius Caen is 1st Scholar to Lord Daesun Reynear and personal trainer to the [[Lady Bethiria Reynear]] He has personally penned the most up-to-date treatises on the anatomy and growth of the body and many of the most accurate histories of Tedorfell and the land surrounding. Those who wish to strengthen themselves would do well to attend to his teachings for none are more learned in the forging of the body. 
 
-Caen was born to Leander Caen, a professor at the [[Tierset Royal Academy]] and Mael Caen, of the Noble Guard in the Tedorfellan seacity, Graefel. He began his education when he was three years of age when his father took to practicing his lectures to him. He began his studies in earnest at the age of 10. Utilizing access to the libraries of the academy, he quickly gleaned that what is truth is not always agreed upon by scholars. He therefore made it his life’s mission to separate misconceptions from reality. 
-
+Caen was born to Leander Caen, a professor at the Tierset Royal Academy and Mael Caen, of the Noble Guard in the Tedorfellan seacity, Graefel. He began my education when he was three years of age when my father took to practicing his lectures to me. He began his studies in earnest at the age of 10. Utilizing access to the libraries of the academy, he quickly gleaned that what is truth is not always agreed upon by scholars. He therefore made it my life’s mission to separate misconceptions from reality. 
+ 
 His magnum opus, //Writings on The History of Nations and How One Makes Use of the Mind and Body for Gain and Influence// is the culmination of his life of studies. The words contained within are a life changing treasure trove for any mind. Many say that it is a detriment that it is heavy enough to crush the skull of a bear with. To prove them wrong, he had his personal copy bound in iron, attached to a metal staff(he had already memorized it) and made into a maul with which he competed in the [[Aegil Tournament]]. Good knowledge is weighty.
 
 ~Ser Brius Caen
+(Player: Machina)
