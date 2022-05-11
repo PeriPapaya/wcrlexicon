@@ -1,6 +1,6 @@
 # Player: ND
 # Turn: 0
-# Title: Ratalan
+# Title: ~Ratalan
 
 The night Suta Aratelian was conceived his mother dreamed of a luminous bird with one head of a hawk and one head of an eagle. A clear sign that the fetal prince would one day become either a great king or a wise prophet. Determined to prevent the second scenario, the king ensured that young Aratelian grew up with no knowledge of human frailty or religious teachings. 
 
@@ -12,6 +12,6 @@ Ratalan first met the Primaria-Mother Jottess in 6656 when he presented her with
 
 To this day Ratalan remains the Primeria-mother's closest, most trusted, and loyal advisor.  
 
-~Ratalan
+~Ratalan\\
 (Player: Psych)
 
