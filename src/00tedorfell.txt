@@ -2,10 +2,11 @@
 # Turn: 0
 # Title: *Tedorfell
 
-Tedorfell is ruled by Primaria Sordani. It is west of Belarans.
+Tedorfell is ruled by Primaria Sordani. The royal family also includes [[Primari-Mother Jottess|~Ratalan]]. It is west of Belar.
 
 Cities:\\
-[[Kol'adarash]] - the capitol\\
-Graefel - a coastal city, home to the Tierset Royal Academy\\
+[[Kol'adarash]] - the capitol, home to Sm. Osmo’s Seminary of the [[Atakkra]] Church\\
+Graefel - a coastal city, home to the Tierset Royal Academy, birthplace of[[Esharia|King-Country Equation, The]]\\
+[[Grain]] - an artificial island near Graefel
 
 ~Gorthan Frim

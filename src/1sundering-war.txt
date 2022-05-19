@@ -1,0 +1,31 @@
+# Player: Kiki
+# Turn: 1
+# Title: Sundering War
+
+Scribe's note: //While widely accepted as a historical event, the Sundering War is also the subject of both myth and many differing cultural interpretations. As such, much of the content in this entry is based on knowledge that is at best incomplete, and at worst apocryphal. Readers are thus cautioned to read critically and consult other sources.//
+
+Any accounting of the history between Belar and Tedorfell must inevitably begin at the Sundering War. 
+
+The conflict began roughly seven thousand years ago, when the entire continent was united as one kingdom under the rule of the Summer Queen. It was an age of heroes and great deeds, and both land and people flourished. But the time came when the Queen knew her end was near. She had borne no children, and was thus without an heir. 
+
+Two warriors had curried the Queen's favor: from the west, the silver knight Kol'adar, whose shield could turn any blade; and from the east, the warrior prince Aegus, whose sword could pierce any armor. Upon the death of the Queen, it was agreed that these two would meet for a duel to the death at a place known only to them, with the winner succeeding the throne.
+
+The true events of that duel were never known, as neither combatant returned alive. Only [[Lyreon|Lyreon I]], Kol'adar's nephew, faithful squire and the duel's sole witness returned, bearing his mistress's body upon his back. Lyreon told the people what had transpired; Aegus's blows broke both Kol'adar's shield and body, but did not slay her. But Kol'adar struck true, ending Aegus's life. Kol'adar was victorious, but soon succumbed to her own wounds.
+
+In light of Lyreon's testimony, Kol'adar was recognized as the Summer Queen's successor, and the throne passed to her heirs in the west. But the people of the east cried treachery; they doubted Lyreon's word and honor, and raged that Aegus's body had never been returned to them. The furor became such that the people of the east, led by [[Aegus's children|Children of Aegus]], took up arms against the new rulers, bringing war to a land that had known only peace.
+
+The conflict lasted for decades, and the lives lost were said to outnumber even the stars in the sky. The land itself was left with wounds that would never heal, and a once-harmonious civilization was now torn irreparably apart. Every attempt at peace failed, poisoned by phantom treacheries. It was decided the war would end as it began: with a duel. Lyreon, who had ascended the throne by blood, versus Sita, the eldest daughter of Aegus. But this time there would be no doubt or deceit. This time, the entire world would be witness.
+
+Lyreon and Sita clashed in a duel that lasted for three days, yet neither yielded an inch to their adversary. As the sun rose on the fourth dawn, both warriors fell, dead from exhaustion. Thus the duel ended in a draw, and thus would the war end.
+
+The people returned home in discontent. There would be no more war, but neither could there be peace. A boundary was drawn through the land, with the site of the final duel as the midpoint: everything to the east would come to be Belar, and everything to the west would come to be Tedorfell.
+
+Thus were the lands of the Summer Queen sundered.
+
+Further reading:\\
+//The Treachery of Treaties// by Dr. Griz Grenada \\
+//Barti's Barmy Belar, Volume I// by Bartifellous Barti \\
+
+//Editor's Note: There's already two books written on this? Remind me again why they're making us compile it all again? ~Gorthan Frim//
+
+~Lady Bartolomea Lucretia Cantabella-Everene
