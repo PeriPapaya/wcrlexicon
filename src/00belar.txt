@@ -2,7 +2,9 @@
 # Turn: 0
 # Title: *Belar
 
-Belar is ruled by the High Echelon Grandula. It is east of Tedorfell.
+Belar is ruled by the High Echelon Grandula. It is east of Tedorfell. 
+
+The rulers of Belar favor the [[Aestrian Pantheon]].
 
 Cities:\\
 [[Tintar]] - city in the far west, on the Belarans/Tedorfell border, [[Dr. Griz Grenada's|~Dr. Griz Grenada]] hometown\\
