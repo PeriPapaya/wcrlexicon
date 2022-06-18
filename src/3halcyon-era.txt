@@ -2,6 +2,7 @@
 # Turn: 3
 # Title: Halcyon Era
 
+
 The Halcyon Era was, as per its name, a peaceful time in this region's history, somewhere around the 400s and 700s. Detailed record keeping of this time period is hard to find after the [[Sundering War]] rained devastation upon all the lands, destroying most documentation of life in Belar and Tedorfell prior to the Wars. 
 
 Nevertheless, some records were preserved in the more remote outposts of the continent that battles failed to reach, such as the archives of [[Pellemere]] in the far south. The Pellemeran library, with four stories underground and two above ground, has been standing securely since recorded history began, and contains many volumes of great historical and literary significance (and has a generous interlibrary lending system allowing citizens all over Belar to borrow or examine its rarer offerings.) This library also happens to hold the earliest known libretto for the opera [[Verily the Flowers Burn]]. Its archives include several scrolls dating back to not just the Halcyon Era, but also the centuries immediately following it, which established the Halcyon Era as the name for this time period.
@@ -12,4 +13,26 @@ According to the few surviving contemporary records we have, the Halcyon Era was
 //Editor's Note: Sod the naysayers, I could do with a little luxury of rest myself. Let's hope this royal marriage can manifest some. ~Gorthan Frim//
 
 ~
-Velocity Raptureridge
+
+**REDACTION**
+
+While indeed far more peaceful than the Sundering War, it still lacks nuance to call the Halycon Era a time of "peace and prosperity".
+
+I don't mean to deny the Chairperson their wish for "luxury of rest", I could do with some rest either! But [[their storied career|~Chairperson Gorthan Frim]] as a person unrecognized as a citizen and their troubles thereof in this so-called period of 'increasing union' might give them some cause for reflection. 
+
+On to my main point: I laud Raptureridge's passion for historical research, but her lack of connection with the recent discoveries and controversies in history is showing here. More and more evidence is coming this was not a mere period of stagnation, but of state re-building.
+
+As soon the squabbling Counts reached //their// peace, their attention redirected towards the rebellious cities and villages. Those, having been enlisted in their regional bickerings and gained only even more devastation, had grown bitter and wanted self-government. But after the elite strife ended with the [[Marsh Compromise]] (still recognizable in some current borders) the rebels had to reckon with the full force of the Counts.
+
+For examples of recent research on this, consult Babor’s //Farms with Arms// on the recurrent Peasant’s rebellions in that period, Fareils’ //The Halycon’s Lions// on how the Counts established their power base and for specific examples: Varin’s //Bloody Titles and Tithes//  in which the author examines how protest against taxes repeatedly got crushed with the local leaders executed and other rebels torn from their families and scattered and replaced to cut connections that might foment unrest.
+
+There were no wars, but it is an irritatingly common mistake to assume inter-state peace equals intrastate peace which is far more rare. This is due a misunderstanding of violence and war’s nature. As a politician remarked: “War is the continuation of politics with other means”. Meaning its intrastate politics determine the character of that state’s wars. And as an example of how we perceive both: why do we count the stabbing of a soldier’s spear as violence and not the striking of a Holy Paladin's sword?
+
+//Which// citizens enjoyed the luxury of rest? Which not? And how many of each wrote the history books?
+
+//Editor's Note: Wow, rude. Good article though. ~Chairperson Gorthan Frim//
+
+
+~
+Original text by Velocity Raptureridge\\
+Redactions by Dr. Griz Grenada
