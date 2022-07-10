@@ -2,13 +2,13 @@
 # Turn: 0
 # Title: *Tedorfell
 
-Tedorfell is ruled by Primaria Sordani. The royal family also includes [[Primari-Mother Jottess|~Ratalan]]. It is west of Belar.
+Tedorfell is ruled by Primaria Sordani. The royal family also includes [[Primari-Mother Jottess|~Ratalan]]. It is west of Belar. The royal symbol is the kite shield.
 
 The rulers of Tedorfell favor the [[Atakkra Church|Atakkra]].
 
 Cities:\\
 [[Kol'adarash]] - the capitol, home to Sm. Osmo’s Seminary of the [[Atakkra]] Church\\
-[[Graefel]] - a coastal city, home to the Tierset Royal Academy, birthplace of[[Esharia|King-Country Equation, The]]\\
+[[Graefel]] - a coastal city, home to the Tierset Royal Academy, birthplace of[[Esharia|The King-Country Equation]]\\
 [[Grain]] - an artificial island near Graefel
 
 ~Gorthan Frim
