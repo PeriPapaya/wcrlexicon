@@ -2,11 +2,12 @@
 # Turn: 0
 # Title: *Belar
 
-Belar is ruled by the High Echelon Grandula. It is east of Tedorfell. 
+Belar is ruled by the High Echelon Grandula, and its capitol city is [[Heragorn]]. It is east of Tedorfell. 
 
 The rulers of Belar favor the [[Aestrian Pantheon]].
 
 Cities:\\
-[[Tintar]] - city in the far west, on the Belarans/Tedorfell border, [[Dr. Griz Grenada's|~Dr. Griz Grenada]] hometown\\
+[[Tintar]] - city in the far west with the epithet "the garden city", on the Belarans/Tedorfell border, [[Dr. Griz Grenada's|~Dr. Griz Grenada]] hometown\\
+[[Elskaer]] - a region on the western border of Belar, site of the [[Illyacquus, The Burnt Citadel of]]
 
 ~Gorthan Frim
